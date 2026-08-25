@@ -2,62 +2,47 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6GX22nKzCH5":
+      case "6LNapDJ1FH3":
         Script1();
         break;
-      case "672A6vgfkAC":
+      case "6AOVZZ02f7O":
         Script2();
         break;
-      case "6eumENivTBu":
+      case "5kLZJBtW60L":
         Script3();
         break;
-      case "6A9HxmsNTg6":
+      case "5rMVrYnMybc":
         Script4();
         break;
-      case "62H7jrL11kJ":
+      case "5V64vZyED1l":
         Script5();
         break;
-      case "6Be2iInowIc":
+      case "654oteZZLID":
         Script6();
         break;
-      case "6NFHOOvriHI":
+      case "6oaT9Zw06IV":
         Script7();
         break;
-      case "6NpF6VOrPyz":
+      case "6YYoNhPqTta":
         Script8();
         break;
-      case "6V2h3IrA9Qg":
+      case "6hZyMCSn8iK":
         Script9();
         break;
-      case "6FwZoRbW5fE":
+      case "5iySSP3CT0o":
         Script10();
         break;
-      case "6NLGehuQBUL":
+      case "63oHp72eIDV":
         Script11();
         break;
-      case "6KOVCQvlVVm":
+      case "6IYxGOR2HAv":
         Script12();
         break;
-      case "5hiql286tbG":
+      case "5um1RruWobW":
         Script13();
         break;
-      case "5zWwbXN90pT":
+      case "5r8qgCLiQsu":
         Script14();
-        break;
-      case "5h3YCzyJg2h":
-        Script15();
-        break;
-      case "5Wl7rtJsvHq":
-        Script16();
-        break;
-      case "6aa8ESBV6LC":
-        Script17();
-        break;
-      case "5XyNjJw5K9H":
-        Script18();
-        break;
-      case "6qHXY6U6RyO":
-        Script19();
         break;
   }
 }
@@ -252,91 +237,6 @@ target.animate(
 
 window.Script9 = function()
 {
-  const target = object('6RE2LTUR8Md');
-const duration = 750;
-const easing = 'cubic-bezier(0.25, 1, 0.5, 1)';
-const id = '5Wgzw2Sv2il';
-const growAmount = 1.2;
-player.addForTriggers(
-id,
-target.animate(
-player.emphasis.elastic(growAmount)
-,
-  { fill: 'forwards', duration, easing }
-)
-);
-}
-
-window.Script10 = function()
-{
-  const target = object('5reaOUXgHg3');
-const duration = 750;
-const easing = 'cubic-bezier(0.25, 1, 0.5, 1)';
-const id = '5o2sTR87Iqn';
-const growAmount = 1.2;
-player.addForTriggers(
-id,
-target.animate(
-player.emphasis.elastic(growAmount)
-,
-  { fill: 'forwards', duration, easing }
-)
-);
-}
-
-window.Script11 = function()
-{
-  const target = object('6PnTGvLD8wB');
-const duration = 750;
-const easing = 'cubic-bezier(0.25, 1, 0.5, 1)';
-const id = '6RAnz3juTqZ';
-const growAmount = 1.2;
-player.addForTriggers(
-id,
-target.animate(
-player.emphasis.elastic(growAmount)
-,
-  { fill: 'forwards', duration, easing }
-)
-);
-}
-
-window.Script12 = function()
-{
-  const target = object('5kW9kJ7YKfv');
-const duration = 750;
-const easing = 'cubic-bezier(0.25, 1, 0.5, 1)';
-const id = '6HdwzlqlF1V';
-const growAmount = 1.2;
-player.addForTriggers(
-id,
-target.animate(
-player.emphasis.elastic(growAmount)
-,
-  { fill: 'forwards', duration, easing }
-)
-);
-}
-
-window.Script13 = function()
-{
-  const target = object('6P5kOsoTdL1');
-const duration = 750;
-const easing = 'cubic-bezier(0.25, 1, 0.5, 1)';
-const id = '6ZlIPREr6vr';
-const growAmount = 1.2;
-player.addForTriggers(
-id,
-target.animate(
-player.emphasis.elastic(growAmount)
-,
-  { fill: 'forwards', duration, easing }
-)
-);
-}
-
-window.Script14 = function()
-{
   const target = object('6lVymFugJ8F');
 const duration = 750;
 const easing = 'ease-out';
@@ -356,7 +256,7 @@ target.animate(
 );
 }
 
-window.Script15 = function()
+window.Script10 = function()
 {
   const target = object('5uobt3yVKDU');
 const duration = 750;
@@ -377,7 +277,7 @@ target.animate(
 );
 }
 
-window.Script16 = function()
+window.Script11 = function()
 {
   const target = object('62eEZJwoVfX');
 const duration = 750;
@@ -398,7 +298,7 @@ target.animate(
 );
 }
 
-window.Script17 = function()
+window.Script12 = function()
 {
   const target = object('69GoMjcGGaU');
 const duration = 750;
@@ -419,7 +319,7 @@ target.animate(
 );
 }
 
-window.Script18 = function()
+window.Script13 = function()
 {
   const target = object('67F7NMAVk8o');
 const duration = 750;
@@ -440,7 +340,7 @@ target.animate(
 );
 }
 
-window.Script19 = function()
+window.Script14 = function()
 {
   const target = object('67F7NMAVk8o');
 const duration = 750;
